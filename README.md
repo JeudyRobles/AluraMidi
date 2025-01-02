@@ -24,7 +24,3 @@ Este proyecto demuestra cómo usar JavaScript para reproducir sonidos de instrum
 ## Contribuciones
 
 Las contribuciones son bienvenidas!  Si encuentras algún error o quieres agregar nuevas funcionalidades, por favor, crea un *pull request*.
-
-## Licencia
-
-Este proyecto está licenciado bajo la licencia MIT - ver el archivo `LICENSE` para más detalles.
